@@ -13,7 +13,7 @@ This study analyzes the impact of a 1995 treatment intervention on lymphoma inci
 - **Geographic Scope**: SEER registry counties
 - **Demographic Subgroups**: Age, Sex, Race, Hispanic Ethnicity, Lymphoma Type
 
-##️ Project Structure
+## Project Structure
 
 ```
 ├── README.md                           # This file
@@ -79,11 +79,7 @@ The project uses a centralized configuration system for easy setup and portabili
    - `CODE_DIR` = `BASE_DIR/code`
    - `SA_DIR` = `BASE_DIR/SA`
 
-3. **The configuration system ensures**:
-   - All scripts use consistent paths
-   - Easy portability across different systems
-   - No hardcoded absolute paths in the codebase
-   - Centralized parameter management
+
 
 ### Running the Complete Analysis
 
